@@ -23,7 +23,7 @@ Makefile
 Makefile.fragments
 Makefile.global
 Makefile.objects
-missing
+missin
 mkinstalldirs
 modules
 php_test_results_*.txt
